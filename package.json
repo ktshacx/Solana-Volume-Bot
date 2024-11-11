@@ -1,0 +1,21 @@
+{
+  "name": "meteora-volumebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.4",
+    "dotenv": "^16.4.5",
+    "jito-ts": "^4.1.1",
+    "mongoose": "^8.7.3",
+    "node-telegram-bot-api": "^0.66.0",
+    "rpc-websockets": "^9.0.4",
+    "uuidv4": "^6.2.13"
+  }
+}
