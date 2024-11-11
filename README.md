@@ -18,8 +18,8 @@ The bot integrates with the Solana blockchain to track wallet balances, handle t
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/scumbooster-bot.git
-    cd scumbooster-bot
+    git clone https://github.com/mine3krish/Solana-Volume-Bot
+    cd Solana-Volume-Bot
     ```
 
 2. **Install dependencies**:
