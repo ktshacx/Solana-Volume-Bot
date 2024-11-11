@@ -36,7 +36,7 @@ The bot integrates with the Solana blockchain to track wallet balances, handle t
 
     ```bash
     BOT_TOKEN=your_telegram_bot_token
-    MONGODB_URI=your_mongo_db_connection_string
+    MONGO_URI=your_mongo_db_connection_string
     ```
 
     Replace `your_telegram_bot_token` with your actual Telegram bot token, and `your_mongo_db_connection_string` with your MongoDB connection string.
